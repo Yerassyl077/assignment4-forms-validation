@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 4</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container mt-5">
+    <h2>Assignment 4 - Forms and Validation</h2>
+    <p>Select a task to view:</p>
+
+    <div class="list-group mt-4">
+        <a href="task0.html" class="list-group-item list-group-item-action">Task 0 - Simple Contact Form</a>
+        <a href="task1.html" class="list-group-item list-group-item-action">Task 1 - HTML5 Validation</a>
+        <a href="task2.html" class="list-group-item list-group-item-action">Task 2 - Bootstrap Styling</a>
+        <a href="task3.html" class="list-group-item list-group-item-action">Task 3 - Bootstrap Validation</a>
+        <a href="task4.html" class="list-group-item list-group-item-action">Task 4 - Registration Form</a>
+    </div>
+</div>
+
+</body>
+</html>
