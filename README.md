@@ -46,7 +46,8 @@ The form includes:
 
 I also added validation for required fields, email format, password length and password confirmation.
 
-![alt text](photo_5353025888464873294_w-1.jpg)
+<img width="1919" height="973" alt="photo_5353025888464873294_w" src="https://github.com/user-attachments/assets/2cb01a84-c435-42ee-a177-b6366af8d109" />
+
 
 ## Technologies Used
 
